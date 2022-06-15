@@ -1,1 +1,2 @@
 echo "git command" > "filename"
+to be up to date we use pull, git pull <origin> <branchname>
